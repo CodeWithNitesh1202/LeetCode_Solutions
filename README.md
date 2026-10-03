@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -21,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
