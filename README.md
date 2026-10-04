@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Recursion
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
