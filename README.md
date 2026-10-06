@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Nitesh69s/LeetCode_Solutions/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Prefix Sum
